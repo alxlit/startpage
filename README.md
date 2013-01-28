@@ -2,11 +2,11 @@
 # startpage
 
 This is my startpage. It's a Sunday-afternoon project that I threw together
-after seeing the [Currently] extension for Chrome (afaik there's nothing
-similar for Firefox). This isn't a browser extension, though, it's just a page
-I have set up locally.
+after seeing the [Currently] extension for Chrome, as far as I know there's
+nothing similar for Firefox. This isn't a browser extension, though, it's just
+a page I have set up locally.
 
-License: MIT
+License: [MIT]
 
 ## Install
 
@@ -39,8 +39,8 @@ Here's how to set it up, though, on Ubuntu 12.04:
 ~ $ sudo /etc/init.d/apache2 restart
 ```
 
-Then change your homepage in Firefox to "startpage," and change
-browser.newtab.url in about:config to it also.
+Then change your homepage in Firefox to "startpage," and optionally change
+`browser.newtab.url` in about:config also.
 
 ## Screenshot
 
