@@ -26,8 +26,8 @@ $(function() {
 
     $time.html(html);
 
-    if ( ! timeUpdater) {
-      timeUpdater = setInterval(updateTime, 1000);
+    if (timeUpdater == null) {
+      timeUpdater = setInterval(updateTime, 3000);
     }
   }
 
@@ -103,7 +103,7 @@ $(function() {
       $weather.html(html);
     });
 
-    if ( ! weatherUpdater) {
+    if (weatherUpdater == null) {
       weatherUpdater = setInterval(updateWeather, 15 * 60 * 1000);
     }
   }
