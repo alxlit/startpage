@@ -6,7 +6,7 @@ after seeing the [Currently] extension for Chrome, as far as I know there's
 nothing similar for Firefox. This isn't a browser extension, though, it's just
 a page I have set up locally.
 
-License: [MIT]
+License: MIT
 
 ## Install
 
