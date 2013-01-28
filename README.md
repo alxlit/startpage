@@ -2,7 +2,7 @@
 # startpage
 
 This is my startpage. It's a Sunday-afternoon project that I threw together
-after seeing the [Currently]() extension for Chrome (afaik there's nothing
+after seeing the [Currently] extension for Chrome (afaik there's nothing
 similar for Firefox). This isn't a browser extension, though, it's just a page
 I have set up locally.
 
@@ -46,8 +46,8 @@ browser.newtab.url in about:config to it also.
 
 ![screenshot](https://raw.github.com/alxlit/startpage/master/screenshots/1.png)
 
-The icons are [Meteocons](), and the font is [Raleway](), which comes with
-[elementary OS]().
+The icons are [Meteocons], and the font is [Raleway], which comes with
+[elementary OS].
 
 [Currently]: https://chrome.google.com/webstore/detail/currently/ojhmphdkpgbibohbnpbfiefkgieacjmh?hl=en
 [elementary OS]: http://elementaryos.org/
